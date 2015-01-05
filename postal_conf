@@ -1,0 +1,21 @@
+#Path for the home directory
+#home=/directory/name
+
+#Number of threads you want to run
+#no_of_threads=5
+
+#Which type of users emails(avg/tucows)
+#type=avg
+
+#Host address for database
+#host=localhost
+
+#Database user
+#user=basu
+
+#Database password
+#passwd=basu123
+
+#Name of the database
+#database=db_name
+
